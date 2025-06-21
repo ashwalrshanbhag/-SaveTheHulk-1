@@ -53,9 +53,8 @@ This will give u a much better insight into the working of these models.
 
 ## 🎓 Tutorials & Notebooks
 
-- [Semantic Segmentation with U-Net on Oxford Pets (Kaggle)](https://www.kaggle.com/code/awsaf49/oxford-pets-unet-keras-tf)
+- [Semantic Segmentation (Kaggle)]([https://www.kaggle.com/code/awsaf49/oxford-pets-unet-keras-tf](https://www.kaggle.com/code/ligtfeather/semantic-segmentation-is-easy-with-pytorch))
 - [Mask R-CNN with Torchvision Tutorial](https://pytorch.org/tutorials/intermediate/torchvision_tutorial.html)
-- [WandB Guide to Segmentation](https://wandb.ai/carlosgalvezp/semantic-segmentation/reports/Semantic-Segmentation-in-PyTorch--Vmlldzo3MzM1NTc)
 
 ---
 
