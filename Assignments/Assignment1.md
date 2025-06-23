@@ -1,4 +1,4 @@
-# Assignment 3: Deep Learning
+# Assignment 1: Deep Learning
 
 This assignment is designed to give an introduction to some of the fundamental concepts in deep learning. Specifically, you will be learning to implement basic neural networks and then progress to convolutional neural networks (CNNs) using one of TensorFlow/PyTorch. 
 
